@@ -1,0 +1,64 @@
+{
+  "filters": [
+    {
+      "layerId": "Hospitals_8592",
+      "url": "http://services7.arcgis.com/ZCLXIXxEY1Nwanir/arcgis/rest/services/Hospitals/FeatureServer/2",
+      "name": "Hospitals",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "icon": "",
+      "enableMapFilter": true
+    },
+    {
+      "layerId": "Policeexport_2840",
+      "url": "http://services7.arcgis.com/ZCLXIXxEY1Nwanir/arcgis/rest/services/Policeexport/FeatureServer/1",
+      "name": "Police Stations",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "icon": "",
+      "enableMapFilter": true
+    },
+    {
+      "layerId": "Supermarketexport_1590",
+      "url": "http://services7.arcgis.com/ZCLXIXxEY1Nwanir/arcgis/rest/services/Supermarketexport/FeatureServer/1",
+      "name": "Supermarkets",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "icon": "",
+      "enableMapFilter": true
+    },
+    {
+      "layerId": "attractionexport_5907",
+      "url": "http://services7.arcgis.com/ZCLXIXxEY1Nwanir/arcgis/rest/services/attractionexport/FeatureServer/2",
+      "name": "attractions export",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "icon": "",
+      "enableMapFilter": true
+    },
+    {
+      "layerId": "Restaurants_7238",
+      "url": "http://services7.arcgis.com/ZCLXIXxEY1Nwanir/arcgis/rest/services/Restaurants/FeatureServer/1",
+      "name": "Restaurants",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "icon": "",
+      "enableMapFilter": true
+    }
+  ]
+}
